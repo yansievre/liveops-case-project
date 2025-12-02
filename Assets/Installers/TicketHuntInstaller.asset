@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc82ba5ae6384eacb8268ee18f89f5a5, type: 3}
+  m_Name: TicketHuntInstaller
+  m_EditorClassIdentifier: 
+  _ticketHuntHUDViewPrefab: {fileID: 3798954339474102768, guid: 9b0053f8d6034244cbe882e7717d7924, type: 3}

@@ -1,0 +1,83 @@
+{
+    "_uniqueEventId": 0,
+    "_currencyId": "ticket",
+    "_startTime": {
+        "_value": "01:12:2025 00:00:00 +00:00"
+    },
+    "_endTime": {
+        "_value": "15:12:2025 22:10:00 +00:00"
+    },
+    "_steps": [
+        {
+            "_requiredCurrency": 50,
+            "_rewardPackage": {
+                "transactions": [
+                    {
+                        "id": "sc",
+                        "amount": 15
+                    }
+                ]
+            }
+        },
+        {
+            "_requiredCurrency": 100,
+            "_rewardPackage": {
+                "transactions": [
+                    {
+                        "id": "hc",
+                        "amount": 15
+                    },
+                    {
+                        "id": "sc",
+                        "amount": 30
+                    }
+                ]
+            }
+        },
+        {
+            "_requiredCurrency": 200,
+            "_rewardPackage": {
+                "transactions": [
+                    {
+                        "id": "hc",
+                        "amount": 100
+                    }
+                ]
+            }
+        },
+        {
+            "_requiredCurrency": 320,
+            "_rewardPackage": {
+                "transactions": [
+                    {
+                        "id": "sc",
+                        "amount": 100
+                    },
+                    {
+                        "id": "hc",
+                        "amount": 200
+                    }
+                ]
+            }
+        },
+        {
+            "_requiredCurrency": 500,
+            "_rewardPackage": {
+                "transactions": [
+                    {
+                        "id": "sc",
+                        "amount": 150
+                    },
+                    {
+                        "id": "hc",
+                        "amount": 300
+                    },
+                    {
+                        "id": "gold",
+                        "amount": 50
+                    }
+                ]
+            }
+        }
+    ]
+}

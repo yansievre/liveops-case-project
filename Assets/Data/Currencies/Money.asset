@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5703d7d88842bc86f0c3430a20bfe3, type: 3}
+  m_Name: Money
+  m_EditorClassIdentifier: 
+  _uniqueIdentifier: sc
+  _visibleName: Money
+  _prefix: $
+  _suffix: 
+  _icon: {fileID: 1617255441972015815, guid: e6d203eaf66794c7db195951ecbd118f, type: 3}
+  _uiParticleMaterial: {fileID: 2100000, guid: 689037686f4703348a67d2cb2838478b, type: 2}
