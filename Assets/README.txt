@@ -1,5 +1,3 @@
-﻿Message for Snowprint Team:
-
 I developed this project about three months ago as a case project. The goal was to create a mock mobile game with a liveops event
 called "Ticket Hunt". The requirements were:
 
